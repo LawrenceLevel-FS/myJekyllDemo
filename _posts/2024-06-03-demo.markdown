@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Demo Post!"
+date: 2024-06-03 23:03:02 -0400
+categories: jekyll update
+---
+
+This is a demo of a Jekyll post!
